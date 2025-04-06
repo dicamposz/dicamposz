@@ -2,9 +2,9 @@
 
 <hr>
 
-💻 - Cursando Análise e Desenvolvimento de Sistemas na PUC Minas Virtual
-📚 - Estudante de Java
-🎥 - Criador de conteúdo 
+<p> 💻 - Cursando Análise e Desenvolvimento de Sistemas na PUC Minas Virtual
+<p> 📚 - Estudante de Java
+<p> 🎥 - Criador de conteúdo 
 
 <hr>
 
