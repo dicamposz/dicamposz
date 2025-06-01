@@ -2,7 +2,7 @@
 
 <hr>
 
-<p> 💻 - Cursando Análise e Desenvolvimento de Sistemas na PUC Minas Virtual
+<p> 💻 - Cursando Engenharia de Software no Unis - MG
 <p> 📚 - Estudante de Java
 <p> 🎥 - Criador de conteúdo 
 
