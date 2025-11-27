@@ -4,7 +4,6 @@
 
 <p> 💻 - Cursando Sistemas de informação | CEFET-MG
 <p> 📚 - Estudante de Java
-<p> 🎥 - Criador de conteúdo 
 
 <hr>
 
