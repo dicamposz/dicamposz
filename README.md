@@ -2,7 +2,7 @@
 
 <hr>
 
-<p> 💻 - Cursando Engenharia de Software no Unis - MG
+<p> 💻 - Cursando Sistemas de informação | CEFET-MG
 <p> 📚 - Estudante de Java
 <p> 🎥 - Criador de conteúdo 
 
